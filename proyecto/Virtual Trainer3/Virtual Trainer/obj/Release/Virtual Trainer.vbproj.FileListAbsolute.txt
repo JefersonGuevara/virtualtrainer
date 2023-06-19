@@ -1,0 +1,27 @@
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\bin\Release\Virtual Trainer.exe
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\bin\Release\Virtual Trainer.pdb
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\bin\Release\Virtual Trainer.xml
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Pantallazopricipal.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.ah1n1.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.form11.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Form12.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Form2.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Form3.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Form4.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Form5.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Form6.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Form7.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.VIH.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.cancer.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.clavedeacceso.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.mmm.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.LoginForm3.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.LoginForm4.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.LoginForm5.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.LoginForm6.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\WindowsApplication1.Resources.resources
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\Virtual Trainer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\Virtual Trainer.exe
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\Virtual Trainer.xml
+C:\Documents and Settings\usuario\Escritorio\Virtual Trainer\Virtual Trainer\obj\Release\Virtual Trainer.pdb
